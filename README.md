@@ -1,6 +1,6 @@
 # Sistema de Gestión para Laboratorio Clínico
 
-Sistema de información web desarrollado para optimizar el flujo de trabajo en la unidad de laboratorio del Hospital Militar Tipo I "Cnel. Nelson Sayago Mora". El proyecto nació para reemplazar el control manual en papel por una plataforma digital que agilizara la entrega de resultados y garantizara la trazabilidad de los datos clínicos.
+Sistema de información web desarrollado para optimizar el flujo de trabajo en la unidad de laboratorio de una institución de salud. El proyecto nació para reemplazar el control manual en papel por una plataforma digital que agilizara la entrega de resultados y garantizara la trazabilidad de los datos clínicos.
 
 ## Propósito del Proyecto
 
@@ -19,7 +19,7 @@ El desarrollo del sistema se estructuró bajo una arquitectura cliente-servidor 
 ## Módulos y Funcionalidades
 
 ### 1. Gestión de Pacientes e Historias Clínicas
-- Registro de datos filiatorios de pacientes (militares y civiles).
+- Registro de datos filiatorios de pacientes.
 - Búsqueda avanzada por cédula o nombre.
 - Consulta de antecedentes y órdenes médicas anteriores.
 
@@ -39,9 +39,6 @@ El desarrollo del sistema se estructuró bajo una arquitectura cliente-servidor 
 - Autenticación y control de acceso basado en roles (Administrador, Bioanalista, Recepción).
 - Bitácora de eventos e historial de operaciones en el sistema.
 
-## Consideraciones de Seguridad y Privacidad
-
-Por motivos de confidencialidad, privacidad de los pacientes y acuerdos con la institución de salud, la base de datos real y los registros médicos no forman parte de este repositorio público.
 
 ## Autor
 
